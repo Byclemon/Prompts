@@ -11,6 +11,10 @@ const nextConfig = {
         hostname: '**',
       },
     ],
+    unoptimized: true
+  },
+  experimental: {
+    isrMemoryCacheSize: 0,
   }
 }
 

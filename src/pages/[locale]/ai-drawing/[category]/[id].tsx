@@ -38,8 +38,20 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
+  const locales = ['zh', 'en']
+  const categories = ['character', 'landscape']
+  const ids = ['game-character', 'natural-landscape']
+
+  const paths = locales.flatMap(locale =>
+    categories.flatMap(category =>
+      ids.map(id => ({
+        params: { locale, category, id }
+      }))
+    )
+  )
+
   return {
-    paths: [],
+    paths,
     fallback: 'blocking',
   }
 } 
