@@ -12,9 +12,6 @@ const nextConfig = {
       },
     ],
     unoptimized: true
-  },
-  experimental: {
-    isrMemoryCacheSize: 0,
   }
 }
 
