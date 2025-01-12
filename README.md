@@ -1,36 +1,109 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Prompts / AI 提示词库
 
-## Getting Started
+AI Prompts sharing platform built with Next.js / 基于 Next.js 构建的 AI 提示词分享平台
 
-First, run the development server:
+[English](#english) | [中文](#中文)
+
+## English
+
+### Features
+
+- 🌍 Multi-language Support (English & Chinese)
+- 🎨 Modern UI with Tailwind CSS
+- 🌙 Dark Mode Support
+- 📱 Fully Responsive Design
+- ⚡ Fast and SEO Optimized
+- 🔍 Advanced Search & Filtering
+- 📋 Easy Copy & Share
+- 🎯 Category Based Organization
+
+### Getting Started
 
 ```bash
+# Install dependencies
+npm install
+
+# Run development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
+# Build for production
+npm run build
+
+# Start production server
+npm run start
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Tech Stack
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Framework**: Next.js
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS
+- **Internationalization**: next-i18next
+- **Animation**: Framer Motion
+- **State Management**: React Hooks
+- **Deployment**: Vercel
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 中文
 
-## Learn More
+### 特性
 
-To learn more about Next.js, take a look at the following resources:
+- 🌍 多语言支持（中英双语）
+- 🎨 使用 Tailwind CSS 的现代界面
+- 🌙 深色模式支持
+- 📱 完全响应式设计
+- ⚡ 快速加载和 SEO 优化
+- 🔍 高级搜索和筛选
+- 📋 便捷复制和分享
+- 🎯 基于分类的内容组织
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 开始使用
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+```bash
+# 安装依赖
+npm install
 
-## Deploy on Vercel
+# 运行开发服务器
+npm run dev
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+# 构建生产版本
+npm run build
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+# 启动生产服务器
+npm run start
+```
+
+### 技术栈
+
+- **框架**: Next.js
+- **开发语言**: TypeScript
+- **样式**: Tailwind CSS
+- **国际化**: next-i18next
+- **动画**: Framer Motion
+- **状态管理**: React Hooks
+- **部署**: Vercel
+
+## Directory Structure / 目录结构
+
+```
+src/
+  ├── components/     # React components / React 组件
+  ├── pages/         # Next.js pages / Next.js 页面
+  ├── styles/        # Global styles / 全局样式
+  ├── types/         # TypeScript types / TypeScript 类型
+  └── utils/         # Utility functions / 工具函数
+public/
+  └── locales/       # i18n translations / 国际化翻译文件
+```
+
+## License / 许可
+
+MIT
+
+## Contributing / 贡献
+
+Contributions are welcome! Please read our contributing guidelines first.
+欢迎贡献！请先阅读我们的贡献指南。
+
+## Author / 作者
+
+[Byclemon](https://github.com/Byclemon)
