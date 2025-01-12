@@ -204,19 +204,30 @@ export const getStaticProps: GetStaticProps = async ({ locale }) => {
   try {
     const prompts = await getPromptList('cursor', locale || 'zh')
     
-    // 添加分类数据
+    // 使用已有的分类数据
     const categories = Object.entries(categoryIcons).map(([id, icon]) => ({
       id,
       icon
     }))
-    
+
+    // 只返回必要的字段
+    const simplifiedPrompts = prompts.map(prompt => ({
+      id: prompt.id,
+      title: prompt.title,
+      description: prompt.description,
+      category: prompt.category,
+      author: prompt.author,
+      platforms: prompt.platforms,
+      updated: prompt.updated
+    }))
+
     return {
       props: {
         ...(await serverSideTranslations(locale || 'zh', ['common'])),
-        prompts,
+        prompts: simplifiedPrompts,
         categories
       },
-      revalidate: 60 // 每分钟重新生成页面
+      revalidate: 60
     }
   } catch (error) {
     console.error('Error getting prompts:', error)
