@@ -1,0 +1,19 @@
+{
+  "id": "nextjs-2",
+  "category": "programming",
+  "platforms": [
+    "Next.js",
+    "React",
+    "TypeScript"
+  ],
+  "tags": [
+    "Next.js",
+    "React",
+    "TypeScript"
+  ],
+  "author": "Pontus Abrahamsson",
+  "authorUrl": "https://twitter.com/pontusab",
+  "authorAvatar": "https://pbs.twimg.com/profile_images/1755611130368770048/JwLEqyeo_400x400.jpg",
+  "created": "2025-01-11",
+  "updated": "2025-01-11"
+}

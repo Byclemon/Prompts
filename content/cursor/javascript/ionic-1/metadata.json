@@ -1,0 +1,19 @@
+{
+  "id": "ionic-1",
+  "category": "programming",
+  "platforms": [
+    "ionic",
+    "cordova",
+    "angular"
+  ],
+  "tags": [
+    "ionic",
+    "cordova",
+    "angular"
+  ],
+  "author": "Fahad Malk",
+  "authorUrl": "https://github.com/fahad-malk",
+  "authorAvatar": "https://avatars.githubusercontent.com/u/4982",
+  "created": "2025-01-11",
+  "updated": "2025-01-11"
+}

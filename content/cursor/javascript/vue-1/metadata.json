@@ -1,0 +1,21 @@
+{
+  "id": "vue-1",
+  "category": "programming",
+  "platforms": [
+    "Vue.js",
+    "TypeScript",
+    "Node.js",
+    "Vite"
+  ],
+  "tags": [
+    "Vue.js",
+    "TypeScript",
+    "Node.js",
+    "Vite"
+  ],
+  "author": "Luiz Barreto",
+  "authorUrl": "https://github.com/llbarre",
+  "authorAvatar": "https://avatars.githubusercontent.com/u/11854739?v=4",
+  "created": "2025-01-11",
+  "updated": "2025-01-11"
+}

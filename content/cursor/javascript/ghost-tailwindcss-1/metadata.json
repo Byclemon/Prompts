@@ -1,0 +1,19 @@
+{
+  "id": "ghost-tailwindcss-1",
+  "category": "programming",
+  "platforms": [
+    "Ghost",
+    "Alpine.js",
+    "TailwindCSS"
+  ],
+  "tags": [
+    "Ghost",
+    "Alpine.js",
+    "TailwindCSS"
+  ],
+  "author": "ghostFam",
+  "authorUrl": "https://ghostfam.com/en/",
+  "authorAvatar": "https://ghostfam.com/en/content/images/size/w300/format/webp/2023/08/ghostfam-1.webp",
+  "created": "2025-01-11",
+  "updated": "2025-01-11"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pixijs-1",
+  "category": "programming",
+  "platforms": [
+    "Pixi.js",
+    "TypeScript",
+    "Game Development",
+    "Web",
+    "Mobile"
+  ],
+  "tags": [
+    "Pixi.js",
+    "TypeScript",
+    "Game Development",
+    "Web",
+    "Mobile"
+  ],
+  "author": "Václav Vančura",
+  "authorUrl": "https://github.com/vancura",
+  "authorAvatar": "https://avatars.githubusercontent.com/u/4982",
+  "created": "2025-01-11",
+  "updated": "2025-01-11"
+}

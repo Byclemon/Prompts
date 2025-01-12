@@ -1,0 +1,17 @@
+{
+  "id": "robocorp-1",
+  "category": "programming",
+  "platforms": [
+    "RoboCorp",
+    "Python"
+  ],
+  "tags": [
+    "RoboCorp",
+    "Python"
+  ],
+  "author": "Thiago Martins",
+  "authorUrl": "https://github.com/0xthiagomartins",
+  "authorAvatar": "https://github.com/0xthiagomartins.png",
+  "created": "2025-01-11",
+  "updated": "2025-01-11"
+}

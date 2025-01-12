@@ -1,0 +1,120 @@
+# CursorRules - 项目开发规范
+
+## 1. 目录结构
+保持现有目录结构:
+```
+src/
+  ├── components/     # React 组件
+  ├── pages/         # Next.js 页面
+  ├── styles/        # 全局样式
+  ├── types/         # TypeScript 类型定义
+  └── utils/         # 工具函数
+```
+
+## 2. 文件命名规范
+- 组件文件: PascalCase (如 `Navbar.tsx`)
+- 工具文件: camelCase (如 `prompts.ts`)
+- 样式文件: camelCase (如 `globals.css`)
+- 类型文件: camelCase (如 `index.d.ts`)
+
+## 3. 代码风格
+- 使用 TypeScript 严格模式
+- 使用 ESLint 规则检查
+- 使用 Prettier 格式化
+- 组件使用函数式组件
+- Props 必须定义类型接口
+
+## 4. 样式规范
+- 使用 Tailwind CSS
+- 遵循现有的颜色系统:
+  - 主色: blue-500/600
+  - 背景: white/gray-50 (亮), gray-800/900 (暗)
+  - 文字: gray-600/300
+- 保持一致的间距和圆角
+
+## 5. 国际化
+- 所有文本必须使用 i18n
+- 翻译文件位于 `public/locales/`
+- 支持中文(zh)和英文(en)
+
+## 6. 组件规范
+- 必须添加类型注解
+- 使用 motion 组件添加动画
+- 保持现有的组件结构
+- 不随意更改现有组件的基础功能
+
+## 7. 配置文件
+不修改以下文件的基本配置:
+- next.config.js
+- next-i18next.config.js
+- tailwind.config.js
+- tsconfig.json
+
+## 8. 提交规范
+- 遵循 .gitignore 规则
+- 提交前确保通过所有 TypeScript 检查
+- 提交前确保通过所有 ESLint 检查
+
+## 9. 特殊规则
+- _app.tsx: 只处理全局配置和布局
+- _document.tsx: 只处理文档结构
+- guide.tsx: 保持现有的页面结构和样式
+- index.tsx: 保持现有的首页结构
+- prompts.ts: 保持现有的数据处理逻辑
+
+## 10. Content 目录结构
+```
+content/
+  └── prompts/          # 提示词内容
+      ├── [category]/   # 分类目录
+      │   ├── [id]/     # 单个提示词
+      │   │   ├── metadata.json  # 元数据
+      │   │   ├── zh.md         # 中文内容
+      │   │   └── en.md         # 英文内容
+      │   └── ...
+      └── ...
+```
+
+## 11. 内容文件规范
+
+### metadata.json
+```json
+{
+  "id": "unique-id",
+  "category": "category-id",
+  "platforms": ["platform1", "platform2"],
+  "author": "author-name"
+}
+```
+
+### Markdown 文件 (zh.md/en.md)
+```markdown
+---
+title: 提示词标题
+description: 简短描述
+---
+
+提示词正文内容...
+```
+
+## 12. 内容管理规则
+- 每个提示词必须有独立的目录
+- 必须包含中英文两个版本
+- metadata.json 必须包含所有必要字段
+- Markdown 文件必须包含 frontmatter
+- 分类必须与 common.json 中定义的类别对应
+- 文件名必须全部小写
+- ID 使用 kebab-case 命名法
+
+## 13. 内容质量规范
+- 提示词必须清晰、实用
+- 描述必须准确、简洁
+- 必须注明适用平台
+- 必须有明确的使用场景
+- 翻译必须准确、地道
+
+## 14. 文件操作
+- 不随意删除现有内容
+- 新增内容必须遵循目录结构
+- 修改内容必须同时更新中英文版本
+- 保持文件编码为 UTF-8

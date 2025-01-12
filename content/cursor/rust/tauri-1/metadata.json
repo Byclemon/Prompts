@@ -1,0 +1,17 @@
+{
+  "id": "tauri-1",
+  "category": "programming",
+  "platforms": [
+    "Tauri",
+    "Cross-Platform Desktop App"
+  ],
+  "tags": [
+    "Tauri",
+    "Cross-Platform Desktop App"
+  ],
+  "author": "Hiep Nguyen Phi",
+  "authorUrl": "https://x.com/hiepnp1990",
+  "authorAvatar": "https://pbs.twimg.com/profile_images/1615224444007616512/uYve4dcG_400x400.jpg",
+  "created": "2025-01-11",
+  "updated": "2025-01-11"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "nestjs-2",
+  "category": "programming",
+  "platforms": [
+    "NestJs",
+    "Node",
+    "API",
+    "@app/common",
+    "TypeScript"
+  ],
+  "tags": [
+    "NestJs",
+    "Node",
+    "API",
+    "@app/common",
+    "TypeScript"
+  ],
+  "author": "Lb. Madesia",
+  "authorUrl": "https://github.com/lbmadesia",
+  "authorAvatar": "https://avatars.githubusercontent.com/u/77066858?v=4",
+  "created": "2025-01-11",
+  "updated": "2025-01-11"
+}

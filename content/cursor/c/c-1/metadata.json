@@ -1,0 +1,19 @@
+{
+  "id": "c-1",
+  "category": "programming",
+  "platforms": [
+    "C#",
+    "Unity",
+    "Game Development"
+  ],
+  "tags": [
+    "C#",
+    "Unity",
+    "Game Development"
+  ],
+  "author": "Pontus Abrahamsson",
+  "authorUrl": "https://twitter.com/pontusab",
+  "authorAvatar": "https://pbs.twimg.com/profile_images/1755611130368770048/JwLEqyeo_400x400.jpg",
+  "created": "2025-01-11",
+  "updated": "2025-01-11"
+}

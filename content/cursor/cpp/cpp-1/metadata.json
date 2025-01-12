@@ -1,0 +1,19 @@
+{
+  "id": "cpp-1",
+  "category": "programming",
+  "platforms": [
+    "cpp",
+    "c++",
+    "Backend Development"
+  ],
+  "tags": [
+    "cpp",
+    "c++",
+    "Backend Development"
+  ],
+  "author": "Dudi Viachleder",
+  "authorUrl": "https://github.com/dudi-w",
+  "authorAvatar": "https://github.com/dudi-w.png",
+  "created": "2025-01-11",
+  "updated": "2025-01-11"
+}

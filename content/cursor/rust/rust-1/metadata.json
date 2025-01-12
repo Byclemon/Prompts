@@ -1,0 +1,21 @@
+{
+  "id": "rust-1",
+  "category": "programming",
+  "platforms": [
+    "Rust",
+    "async",
+    "channel",
+    "mpsc"
+  ],
+  "tags": [
+    "Rust",
+    "async",
+    "channel",
+    "mpsc"
+  ],
+  "author": "Sheng-Yan, Zhang",
+  "authorUrl": "https://x.com/yancode",
+  "authorAvatar": "https://pbs.twimg.com/profile_images/690799075583655936/ugGFxMsi_400x400.jpg",
+  "created": "2025-01-11",
+  "updated": "2025-01-11"
+}

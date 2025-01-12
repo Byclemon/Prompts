@@ -1,0 +1,17 @@
+{
+  "id": "fastify-1",
+  "category": "programming",
+  "platforms": [
+    "Fastify",
+    "typescript"
+  ],
+  "tags": [
+    "Fastify",
+    "typescript"
+  ],
+  "author": "Daniel Mendes",
+  "authorUrl": "https://github.com/dmend3z",
+  "authorAvatar": "https://avatars.githubusercontent.com/u/40576345?s=400&u=7c26ed63b3477230afd880a193e08b8715ca75f8&v=4",
+  "created": "2025-01-11",
+  "updated": "2025-01-11"
+}

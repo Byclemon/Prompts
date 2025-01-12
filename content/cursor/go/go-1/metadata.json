@@ -1,0 +1,21 @@
+{
+  "id": "go-1",
+  "category": "programming",
+  "platforms": [
+    "Go",
+    "Golang",
+    "API",
+    "net/http"
+  ],
+  "tags": [
+    "Go",
+    "Golang",
+    "API",
+    "net/http"
+  ],
+  "author": "Marvin Kaunda",
+  "authorUrl": "https://x.com/KaundaMarvin",
+  "authorAvatar": "https://pbs.twimg.com/profile_images/1820188526568157184/aMH5E8gl_400x400.jpg",
+  "created": "2025-01-11",
+  "updated": "2025-01-11"
+}

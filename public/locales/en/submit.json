@@ -1,0 +1,173 @@
+{
+  "title": "Submit Prompt",
+  "basicRequirements": "Basic Requirements",
+  "requirements": {
+    "format": "Submit files in the specified format",
+    "quality": "Prompts must be tested and produce good results",
+    "original": "Content must be original or authorized by the original author",
+    "complete": "Provide complete instructions and examples"
+  },
+  "fileStructure": "File Structure",
+  "fileStructureDesc": {
+    "metadata": "Metadata file containing basic prompt information",
+    "chinese": "Chinese content file (required)",
+    "english": "English content file (optional)"
+  },
+  "categories": {
+    "title": "Category Guide",
+    "description": "Please choose the most appropriate category for your prompt. This will help users find the prompts they need.",
+    "promptCategories": {
+      "title": "General Prompt Categories",
+      "list": {
+        "writing": "Writing prompts for content creation, copywriting, etc.",
+        "programming": "Programming prompts for coding, debugging, etc.",
+        "ai": "AI application prompts for AI development, model training, etc.",
+        "life": "Life prompts for daily activities, personal management, etc.",
+        "knowledge": "Knowledge prompts for learning, research, knowledge organization, etc.",
+        "psychology": "Psychology prompts for counseling, emotion management, etc.",
+        "business": "Business prompts for analysis, marketing, etc.",
+        "education": "Education prompts for teaching, training, etc."
+      },
+      "examples": {
+        "writing": "e.g., Article Polisher, SEO Copy Optimizer, Creative Writing Guide",
+        "programming": "e.g., Code Reviewer, Algorithm Optimizer, Debug Assistant",
+        "ai": "e.g., Prompt Engineer, AI Model Trainer, Data Labeling Expert",
+        "life": "e.g., Time Management Advisor, Diet Guide, Habit Coach",
+        "knowledge": "e.g., Knowledge Organizer, Research Method Guide, Study Planner",
+        "psychology": "e.g., Emotion Manager, Stress Relief Expert, Psychology Analyst",
+        "business": "e.g., Business Strategist, Market Analyst, Brand Marketing Expert",
+        "education": "e.g., Personalized Tutor, Course Designer, Teaching Evaluator"
+      }
+    },
+    "cursorCategories": {
+      "title": "Programming Development Categories",
+      "list": {
+        "JS Frontend": "JavaScript-related frontend development prompts",
+        "TS Types": "TypeScript-related type system development prompts",
+        "Python": "Python language development prompts",
+        "Java Backend": "Java language backend development prompts",
+        "Go Backend": "Go language backend development prompts",
+        "Rust Systems": "Rust language system development prompts",
+        "PHP Web": "PHP language website development prompts",
+        "Swift Mobile": "Swift language mobile development prompts",
+        "C Language": "C language development prompts",
+        "C++ Dev": "C++ language development prompts",
+        "Ruby Scripts": "Ruby language script development prompts",
+        ".NET Dev": ".NET platform development prompts",
+        "React": "React framework component development prompts",
+        "Next.js": "Next.js framework full-stack development prompts",
+        "Vue": "Vue.js framework frontend development prompts",
+        "Angular": "Angular framework development prompts",
+        "Svelte": "Svelte framework lightweight development prompts"
+      },
+      "examples": {
+        "JS Frontend": "e.g., React Performance, Vue Components, Frontend Engineering",
+        "TS Types": "e.g., Type Definitions, Generic Programming, Type Inference",
+        "Python": "e.g., Django Backend, Data Processing, Machine Learning",
+        "Java Backend": "e.g., Spring Boot Dev, Microservices, Performance Tuning",
+        "Go Backend": "e.g., Web Services, Concurrent Programming, System Optimization",
+        "Rust Systems": "e.g., Systems Programming, Concurrency Control, Memory Management",
+        "PHP Web": "e.g., Laravel Development, WordPress Plugins, Performance Optimization",
+        "Swift Mobile": "e.g., iOS App Development, UI Design, Performance Tuning",
+        "C Language": "e.g., Embedded Development, Systems Programming, Algorithm Implementation",
+        "C++ Dev": "e.g., Game Development, Graphics Programming, Performance Optimization",
+        "Ruby Scripts": "e.g., Rails Development, Automation Scripts, Web Crawlers",
+        ".NET Dev": "e.g., ASP.NET Development, Windows Apps, Enterprise Systems",
+        "React": "e.g., Custom Hooks, State Management, Component Design",
+        "Next.js": "e.g., SSR Applications, API Routes, Data Fetching",
+        "Vue": "e.g., Component Encapsulation, State Management, Router Config",
+        "Angular": "e.g., Module Development, Service Injection, State Management",
+        "Svelte": "e.g., Component Development, State Management, Animation Implementation"
+      }
+    },
+    "aiDrawingCategories": {
+      "title": "AI Drawing Categories",
+      "list": {
+        "Character Design": "Character design related prompts",
+        "Portrait": "Portrait photography style prompts",
+        "Landscape": "Natural landscape painting prompts",
+        "Architecture": "Architectural design and representation prompts",
+        "Concept Art": "Concept art creation prompts",
+        "Anime Style": "Anime and illustration style prompts",
+        "Realistic": "Realistic style prompts",
+        "Abstract": "Abstract art creation prompts",
+        "Sci-fi": "Sci-fi scene design prompts",
+        "Fantasy": "Fantasy world design prompts",
+        "Nature": "Nature photography prompts",
+        "Interior": "Interior space design prompts",
+        "Vehicle": "Vehicle design prompts",
+        "Product": "Product design and display prompts",
+        "Fashion": "Fashion design prompts",
+        "Food": "Food photography prompts",
+        "Pet": "Pet drawing prompts",
+        "Illustration": "Commercial illustration design prompts"
+      },
+      "examples": {
+        "Character Design": "e.g., Game Characters, Anime Characters, Portraits",
+        "Portrait": "e.g., Portrait Photos, Fashion Photos, Artistic Portraits",
+        "Landscape": "e.g., Natural Scenery, City Landscapes, Seasonal Changes",
+        "Architecture": "e.g., Modern Architecture, Classical Buildings, Future Architecture",
+        "Concept Art": "e.g., Scene Design, Prop Design, Environment Design",
+        "Anime Style": "e.g., Anime Style, Cel Shading, Watercolor Style",
+        "Realistic": "e.g., Oil Painting Style, Hyperrealism, Texture Rendering",
+        "Abstract": "e.g., Geometric Abstraction, Expressionism, Modern Art",
+        "Sci-fi": "e.g., Future Cities, Space Stations, Alien Worlds",
+        "Fantasy": "e.g., Magic Worlds, Mythological Scenes, Alternative Universes",
+        "Nature": "e.g., Mountain and Water, Sunrise and Sunset, Natural Details",
+        "Interior": "e.g., Home Spaces, Commercial Spaces, Exhibition Spaces",
+        "Vehicle": "e.g., Concept Vehicles, Aircraft, Future Transportation",
+        "Product": "e.g., Electronic Products, Home Goods, Packaging Design",
+        "Fashion": "e.g., Fashion Design, Accessory Design, Fashion Illustration",
+        "Food": "e.g., Food Display, Culinary Photography, Ingredient Close-ups",
+        "Pet": "e.g., Pet Portraits, Animal Illustrations, Cute Pet Characters",
+        "Illustration": "e.g., Commercial Illustrations, Children's Illustrations, Icon Design"
+      }
+    }
+  },
+  "metadataFormat": "Metadata Format",
+  "metadataDesc": {
+    "id": "Unique identifier using English and hyphens, e.g., creative-writing-guide",
+    "category": "Category name, must be one of the above categories",
+    "platforms": "Supported platforms like ChatGPT, Claude, Midjourney, etc.",
+    "author": "Author name or GitHub username",
+    "authorUrl": "Author's homepage or social media URL (optional)",
+    "tags": "Related tags for searchability, recommend 3-5 tags",
+    "created": "Creation date, format: YYYY-MM-DD",
+    "updated": "Last update date, format: YYYY-MM-DD"
+  },
+  "markdownFormat": "Markdown Format",
+  "markdownDesc": {
+    "frontmatter": "File header information with title and description",
+    "title": "Prompt title, brief and descriptive",
+    "description": "Brief description, summarize the prompt's purpose in one sentence",
+    "content": "Main content, including the complete prompt text",
+    "instructions": "Usage instructions, detailed explanation of how to use the prompt",
+    "examples": "Usage examples and results, provide actual use cases"
+  },
+  "howToSubmit": "How to Submit",
+  "submitSteps": {
+    "fork": "Fork the project to your GitHub account",
+    "create": "Create a new branch and add your prompt",
+    "test": "Test locally to ensure correct format",
+    "pr": "Submit a Pull Request for review"
+  },
+  "submitButton": "Submit on GitHub",
+  "tips": {
+    "title": "Submission Tips",
+    "list": [
+      "Ensure prompts are thoroughly tested and produce expected results",
+      "Provide detailed instructions and multiple practical examples",
+      "Strictly follow file naming and directory structure conventions",
+      "Maintain content originality and high quality",
+      "Respond promptly to review comments and suggestions",
+      "Choose the most appropriate category for easy discovery",
+      "Add relevant tags to improve discoverability",
+      "Regularly update and optimize prompt content"
+    ]
+  },
+  "emailSubmit": {
+    "title": "Submit via Email",
+    "description": "You can also send your prompts directly to:",
+    "note": "Please organize your prompts according to the format requirements above and send them as attachments. We will review and add them to the website upon receipt."
+  }
+} 

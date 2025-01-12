@@ -1,0 +1,19 @@
+{
+  "id": "java-1",
+  "category": "programming",
+  "platforms": [
+    "Java",
+    "Spring",
+    "Spring-Boot"
+  ],
+  "tags": [
+    "Java",
+    "Spring",
+    "Spring-Boot"
+  ],
+  "author": "Wesley Archbell",
+  "authorUrl": "https://github.com/wesleyarchbell",
+  "authorAvatar": "https://avatars.githubusercontent.com/u/3747704",
+  "created": "2025-01-11",
+  "updated": "2025-01-11"
+}

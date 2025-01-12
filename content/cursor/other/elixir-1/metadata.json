@@ -1,0 +1,17 @@
+{
+  "id": "elixir-1",
+  "category": "programming",
+  "platforms": [
+    "Elixir",
+    "Phoenix"
+  ],
+  "tags": [
+    "Elixir",
+    "Phoenix"
+  ],
+  "author": "Ilyich Vismara",
+  "authorUrl": "https://x.com/ilyichv_",
+  "authorAvatar": "https://pbs.twimg.com/profile_images/1678750477750620160/Ssn1jz6h_400x400.jpg",
+  "created": "2025-01-11",
+  "updated": "2025-01-11"
+}

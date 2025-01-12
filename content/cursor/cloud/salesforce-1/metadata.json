@@ -1,0 +1,19 @@
+{
+  "id": "salesforce-1",
+  "category": "programming",
+  "platforms": [
+    "Salesforce",
+    "SFDX",
+    "Force.com"
+  ],
+  "tags": [
+    "Salesforce",
+    "SFDX",
+    "Force.com"
+  ],
+  "author": "Edoardo Cremaschi",
+  "authorUrl": "https://github.com/NuclearManatee",
+  "authorAvatar": "https://avatars.githubusercontent.com/u/26429873?v=4",
+  "created": "2025-01-11",
+  "updated": "2025-01-11"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "devops-backend-1",
+  "category": "programming",
+  "platforms": [
+    "devops",
+    "kubernetes",
+    "azure",
+    "python",
+    "bash",
+    "ansible"
+  ],
+  "tags": [
+    "devops",
+    "kubernetes",
+    "azure",
+    "python",
+    "bash",
+    "ansible"
+  ],
+  "author": "Ivan Barjaktarov",
+  "authorUrl": "https://barjaktarov.se",
+  "authorAvatar": "https://gravatar.com/ivanthegreat338124489",
+  "created": "2025-01-11",
+  "updated": "2025-01-11"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "vivado-1",
+  "category": "programming",
+  "platforms": [
+    "Vivado",
+    "FPGA",
+    "AXI",
+    "High-Performance",
+    "DMA"
+  ],
+  "tags": [
+    "Vivado",
+    "FPGA",
+    "AXI",
+    "High-Performance",
+    "DMA"
+  ],
+  "author": "JP Shag",
+  "authorUrl": "https://github.com/JPShag",
+  "authorAvatar": "https://avatars.githubusercontent.com/u/28698059",
+  "created": "2025-01-11",
+  "updated": "2025-01-11"
+}

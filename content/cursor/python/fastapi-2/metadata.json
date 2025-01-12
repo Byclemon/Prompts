@@ -1,0 +1,21 @@
+{
+  "id": "fastapi-2",
+  "category": "programming",
+  "platforms": [
+    "FastAPI",
+    "Python",
+    "Microservices",
+    "Serverless"
+  ],
+  "tags": [
+    "FastAPI",
+    "Python",
+    "Microservices",
+    "Serverless"
+  ],
+  "author": "Caio Barbieri",
+  "authorUrl": "https://caio.lombello.com",
+  "authorAvatar": "https://pbs.twimg.com/profile_images/1825535338846015488/z1LjLlZQ_400x400.jpg",
+  "created": "2025-01-11",
+  "updated": "2025-01-11"
+}

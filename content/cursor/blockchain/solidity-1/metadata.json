@@ -1,0 +1,19 @@
+{
+  "id": "solidity-1",
+  "category": "programming",
+  "platforms": [
+    "Solidity",
+    "Smart Contracts",
+    "Ethereum"
+  ],
+  "tags": [
+    "Solidity",
+    "Smart Contracts",
+    "Ethereum"
+  ],
+  "author": "Alfredo Bonilla",
+  "authorUrl": "https://github.com/brolag",
+  "authorAvatar": "https://avatars.githubusercontent.com/u/1393385?s=400&u=7b03f5baf7fda25edf533854c61d9e1014cb75a8&v=4",
+  "created": "2025-01-11",
+  "updated": "2025-01-11"
+}

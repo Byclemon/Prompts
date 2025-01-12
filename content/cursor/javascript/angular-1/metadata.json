@@ -1,0 +1,15 @@
+{
+  "id": "angular-1",
+  "category": "programming",
+  "platforms": [
+    "Angular"
+  ],
+  "tags": [
+    "Angular"
+  ],
+  "author": "Ralph Olazo",
+  "authorUrl": "https",
+  "authorAvatar": "https://rickandmortyapi.com/api/character/avatar/2.jpeg",
+  "created": "2025-01-11",
+  "updated": "2025-01-11"
+}

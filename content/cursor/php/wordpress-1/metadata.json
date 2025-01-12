@@ -1,0 +1,17 @@
+{
+  "id": "wordpress-1",
+  "category": "programming",
+  "platforms": [
+    "WordPress",
+    "PHP"
+  ],
+  "tags": [
+    "WordPress",
+    "PHP"
+  ],
+  "author": "Swapnil V. Patil",
+  "authorUrl": "https://swapnilpatil.in",
+  "authorAvatar": "https://secure.gravatar.com/avatar/fab7fc88fe69b860382dbb5813661555?s=200&d=mm&r=g",
+  "created": "2025-01-11",
+  "updated": "2025-01-11"
+}

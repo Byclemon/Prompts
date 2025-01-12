@@ -1,0 +1,23 @@
+{
+  "id": "web-development-1",
+  "category": "programming",
+  "platforms": [
+    "TypeScript",
+    "Next.js",
+    "React",
+    "Supabase",
+    "GraphQL"
+  ],
+  "tags": [
+    "TypeScript",
+    "Next.js",
+    "React",
+    "Supabase",
+    "GraphQL"
+  ],
+  "author": "Brandon Fernandez",
+  "authorUrl": "https://github.com/Bran18",
+  "authorAvatar": "https://avatars.githubusercontent.com/u/31634868?v=4",
+  "created": "2025-01-11",
+  "updated": "2025-01-11"
+}

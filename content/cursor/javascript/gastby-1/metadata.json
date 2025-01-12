@@ -1,0 +1,23 @@
+{
+  "id": "gastby-1",
+  "category": "programming",
+  "platforms": [
+    "Gatsby",
+    "React",
+    "GraphQL",
+    "Tailwind",
+    "TypeScript"
+  ],
+  "tags": [
+    "Gatsby",
+    "React",
+    "GraphQL",
+    "Tailwind",
+    "TypeScript"
+  ],
+  "author": "Nathan Brachotte",
+  "authorUrl": "https://x.com/nathanbrachotte",
+  "authorAvatar": "https://avatars.githubusercontent.com/u/22449049?v=4",
+  "created": "2025-01-11",
+  "updated": "2025-01-11"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "angular-ionic-firebase-firestore-1",
+  "category": "programming",
+  "platforms": [
+    "ionic",
+    "cordova",
+    "angular",
+    "firebase",
+    "firestore"
+  ],
+  "tags": [
+    "ionic",
+    "cordova",
+    "angular",
+    "firebase",
+    "firestore"
+  ],
+  "author": "Jaro Navales",
+  "authorUrl": "https://github.com/jaronavales",
+  "authorAvatar": "https://avatars.githubusercontent.com/u/7483452",
+  "created": "2025-01-11",
+  "updated": "2025-01-11"
+}

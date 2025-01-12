@@ -1,0 +1,9 @@
+{
+  "id": "chat-optimization",
+  "category": "ai",
+  "platforms": ["ChatGPT", "Claude"],
+  "tags": ["prompt-engineering", "ai", "chat"],
+  "author": "admin",
+  "created": "2024-03-20",
+  "updated": "2024-03-21"
+}

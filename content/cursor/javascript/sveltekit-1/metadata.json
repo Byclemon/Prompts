@@ -1,0 +1,21 @@
+{
+  "id": "sveltekit-1",
+  "category": "programming",
+  "platforms": [
+    "Svelte",
+    "SvelteKit",
+    "Tailwind",
+    "Paraglide.js"
+  ],
+  "tags": [
+    "Svelte",
+    "SvelteKit",
+    "Tailwind",
+    "Paraglide.js"
+  ],
+  "author": "MMBytes",
+  "authorUrl": "https://mmbytesolutions.com",
+  "authorAvatar": "https://avatars.githubusercontent.com/u/162841721",
+  "created": "2025-01-11",
+  "updated": "2025-01-11"
+}

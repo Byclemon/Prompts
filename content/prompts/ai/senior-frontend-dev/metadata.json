@@ -1,0 +1,9 @@
+{
+  "id": "senior-frontend-dev",
+  "category": "ai",
+  "platforms": ["ChatGPT", "Claude"],
+  "tags": ["frontend", "react", "nextjs", "typescript"],
+  "author": "admin",
+  "created": "2024-03-21",
+  "updated": "2024-03-21"
+}

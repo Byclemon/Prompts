@@ -1,0 +1,17 @@
+{
+  "id": "julia-1",
+  "category": "programming",
+  "platforms": [
+    "Julia",
+    "DataScience"
+  ],
+  "tags": [
+    "Julia",
+    "DataScience"
+  ],
+  "author": "Jan Siml",
+  "authorUrl": "https://github.com/svilupp",
+  "authorAvatar": "",
+  "created": "2025-01-11",
+  "updated": "2025-01-11"
+}

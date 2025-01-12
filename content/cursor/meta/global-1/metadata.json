@@ -1,0 +1,15 @@
+{
+  "id": "global-1",
+  "category": "programming",
+  "platforms": [
+    "Global"
+  ],
+  "tags": [
+    "Global"
+  ],
+  "author": "Matias Fanger",
+  "authorUrl": "https://x.com/matifanger",
+  "authorAvatar": "https://pbs.twimg.com/profile_images/1701371140369678336/_e9c3Ykj_400x400.jpg",
+  "created": "2025-01-11",
+  "updated": "2025-01-11"
+}

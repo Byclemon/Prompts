@@ -1,0 +1,19 @@
+{
+  "id": "nextjs-5",
+  "category": "programming",
+  "platforms": [
+    "Next.js",
+    "React",
+    "JavaScript"
+  ],
+  "tags": [
+    "Next.js",
+    "React",
+    "JavaScript"
+  ],
+  "author": "Rafael Framil",
+  "authorUrl": "https://rafaelframil.com",
+  "authorAvatar": "https://rafaelframil.com/_next/image?url=%2Fstatic%2Fimages%2Favatar.jpeg&w=256&q=75",
+  "created": "2025-01-11",
+  "updated": "2025-01-11"
+}

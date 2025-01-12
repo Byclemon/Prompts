@@ -1,0 +1,21 @@
+{
+  "id": "uiux-design-1",
+  "category": "programming",
+  "platforms": [
+    "UI",
+    "UX",
+    "Design",
+    "Accessibility"
+  ],
+  "tags": [
+    "UI",
+    "UX",
+    "Design",
+    "Accessibility"
+  ],
+  "author": "Bence Csernak",
+  "authorUrl": "https://bencium.io",
+  "authorAvatar": "https://utfs.io/f/example-avatar-uiux-expert.jpg",
+  "created": "2025-01-11",
+  "updated": "2025-01-11"
+}

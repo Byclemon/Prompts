@@ -1,0 +1,25 @@
+{
+  "id": "solana-1",
+  "category": "programming",
+  "platforms": [
+    "Solana",
+    "Blockchain",
+    "Rust",
+    "Anchor",
+    "Web3.js",
+    "Metaplex"
+  ],
+  "tags": [
+    "Solana",
+    "Blockchain",
+    "Rust",
+    "Anchor",
+    "Web3.js",
+    "Metaplex"
+  ],
+  "author": "Guney Uzel",
+  "authorUrl": "https://x.com/guneysol",
+  "authorAvatar": "https://avatars.githubusercontent.com/u/112765917?v=4",
+  "created": "2025-01-11",
+  "updated": "2025-01-11"
+}

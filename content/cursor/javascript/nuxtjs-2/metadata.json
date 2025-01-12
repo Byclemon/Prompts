@@ -1,0 +1,19 @@
+{
+  "id": "nuxtjs-2",
+  "category": "programming",
+  "platforms": [
+    "NuxtJS",
+    "Vue",
+    "TypeScript"
+  ],
+  "tags": [
+    "NuxtJS",
+    "Vue",
+    "TypeScript"
+  ],
+  "author": "Kevin Regenrek",
+  "authorUrl": "https://twitter.com/kregenrek",
+  "authorAvatar": "https://avatars.githubusercontent.com/u/5182020?v=4",
+  "created": "2025-01-11",
+  "updated": "2025-01-11"
+}

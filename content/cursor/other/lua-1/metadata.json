@@ -1,0 +1,19 @@
+{
+  "id": "lua-1",
+  "category": "programming",
+  "platforms": [
+    "Lua",
+    "Game Development",
+    "Scripting"
+  ],
+  "tags": [
+    "Lua",
+    "Game Development",
+    "Scripting"
+  ],
+  "author": "Bleed Kagax",
+  "authorUrl": "https://github.com/bleedkagax",
+  "authorAvatar": "https://avatars.githubusercontent.com/u/176584706?s=400&u=04613bc73cdba13d9ff9babcaa009e6a12ec5254&v=4",
+  "created": "2025-01-11",
+  "updated": "2025-01-11"
+}

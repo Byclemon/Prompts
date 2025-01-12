@@ -1,0 +1,23 @@
+{
+  "id": "cosmwasm-1",
+  "category": "programming",
+  "platforms": [
+    "Cosmos",
+    "Blockchain",
+    "Rust",
+    "CosmWasm",
+    "IBC"
+  ],
+  "tags": [
+    "Cosmos",
+    "Blockchain",
+    "Rust",
+    "CosmWasm",
+    "IBC"
+  ],
+  "author": "Phili Liao",
+  "authorUrl": "https://x.com/lshoo36",
+  "authorAvatar": "https://avatars.githubusercontent.com/u/670440?v=4",
+  "created": "2025-01-11",
+  "updated": "2025-01-11"
+}

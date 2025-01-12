@@ -1,0 +1,17 @@
+{
+  "id": "typescript-1",
+  "category": "programming",
+  "platforms": [
+    "TypeScript",
+    "Node.js"
+  ],
+  "tags": [
+    "TypeScript",
+    "Node.js"
+  ],
+  "author": "fearandesire",
+  "authorUrl": "https://github.com/fearandesire",
+  "authorAvatar": "https://avatars.githubusercontent.com/u/11854739?v=4",
+  "created": "2025-01-11",
+  "updated": "2025-01-11"
+}

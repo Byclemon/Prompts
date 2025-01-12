@@ -1,0 +1,25 @@
+{
+  "id": "nextjs-3",
+  "category": "programming",
+  "platforms": [
+    "React",
+    "Vite",
+    "Viem v2",
+    "Wagmi v2",
+    "TypeScript",
+    "Next.js"
+  ],
+  "tags": [
+    "React",
+    "Vite",
+    "Viem v2",
+    "Wagmi v2",
+    "TypeScript",
+    "Next.js"
+  ],
+  "author": "gab-o 👨🏻‍💻",
+  "authorUrl": "https://x.com/gaboesquivel",
+  "authorAvatar": "https://pbs.twimg.com/profile_images/1632750534099709953/AUJIoZ7w_400x400.jpg",
+  "created": "2025-01-11",
+  "updated": "2025-01-11"
+}

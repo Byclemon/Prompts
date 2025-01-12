@@ -1,0 +1,270 @@
+{
+  "locale": "en",
+  "home": {
+    "title": "Prompt Library",
+    "description": "Collect and share prompts for various scenarios",
+    "searchPlaceholder": "Search prompts...",
+    "loading": "Loading...",
+    "noResults": "No prompts found",
+    "shareButton": "Share Prompt",
+    "sortByDate": "Sort by Date",
+    "sortByTitle": "Sort by Title"
+  },
+  "categories": {
+    "all": "All",
+    "writing": "Writing",
+    "programming": "Programming",
+    "ai": "AI",
+    "life": "Life",
+    "knowledge": "Knowledge",
+    "psychology": "Psychology",
+    "business": "Business",
+    "education": "Education",
+    "design": "Design",
+    "marketing": "Marketing",
+    "productivity": "Productivity",
+    "health": "Health",
+    "finance": "Finance",
+    "career": "Career",
+    "creativity": "Creativity",
+    "language": "Language",
+    "research": "Research",
+    "entertainment": "Entertainment",
+    "other": "Other"
+  },
+  "prompt": {
+    "platforms": "Works with {{platforms}}",
+    "openInNew": "Open in new window",
+    "copy": "Copy to clipboard",
+    "copied": "Copied!",
+    "author": "By {{name}}"
+  },
+  "nav": {
+    "aiDrawing": "AI Drawing",
+    "cursor": "Cursor",
+    "guide": "Guide",
+    "theme": {
+      "light": "Switch to light mode",
+      "dark": "Switch to dark mode"
+    },
+    "submit": "Submit Prompt"
+  },
+  "guide": {
+    "title": "User Guide",
+    "description": "Learn how to better use AI prompts and make AI your powerful assistant",
+    "sections": {
+      "what": {
+        "title": "What are Prompts?",
+        "content": "Prompts are instructions for AI conversation. A good prompt helps AI better understand your needs and provide more accurate responses. Prompts act as a bridge for communicating with AI, and through carefully designed prompts, we can guide AI to think and respond in the way we expect.",
+        "examples": [
+          {
+            "title": "Basic Prompts",
+            "content": "Directly describe your needs, like 'Write an article about environmental protection'",
+            "note": "Simple but may have average results"
+          },
+          {
+            "title": "Structured Prompts",
+            "content": "Specify detailed requirements, like 'Write an 800-word article about environmental protection, including: 1. Current environmental issues 2. Individual actions 3. Future outlook'",
+            "note": "More likely to get expected results"
+          }
+        ]
+      },
+      "how": {
+        "title": "How to Use?",
+        "intro": "Using AI prompts is a step-by-step process. Let's learn how to use them effectively:",
+        "steps": [
+          {
+            "title": "Choose a Prompt",
+            "content": "Select a suitable prompt template based on your needs",
+            "detail": "Browse categories to find prompts that match your requirements. Each prompt is carefully designed and tested to help you complete specific tasks."
+          },
+          {
+            "title": "Copy Content",
+            "content": "Click the copy button to copy the prompt to clipboard",
+            "detail": "Prompts often include best practices and specific formats, saving you time from trial and error."
+          },
+          {
+            "title": "Paste and Use",
+            "content": "Paste the prompt into your preferred AI platform",
+            "detail": "We support multiple major AI platforms including ChatGPT and Claude. Each platform may have slight differences, so check platform-specific instructions."
+          },
+          {
+            "title": "Adjust as Needed",
+            "content": "Modify the prompt content according to your specific scenario",
+            "detail": "Prompt templates are starting points. You can adjust them based on your needs, such as modifying keywords, adjusting tone, or adding specific requirements."
+          }
+        ]
+      },
+      "tips": {
+        "title": "Usage Tips",
+        "intro": "Master these tips to make your AI conversations more efficient:",
+        "list": [
+          "Use clear and specific descriptions, avoid vague expressions",
+          "Provide necessary context to help AI better understand the scenario",
+          "Specify desired output format, including length, structure, and style",
+          "If the response isn't ideal, try follow-up questions or modify the prompt",
+          "Make good use of role settings, let AI respond as a specific identity",
+          "Break down complex questions into smaller ones",
+          "Add appropriate constraints to avoid overly divergent answers",
+          "Be patient, good conversations may need multiple adjustments"
+        ],
+        "advanced": {
+          "title": "Advanced Tips",
+          "list": [
+            {
+              "title": "Chain of Thought",
+              "content": "Guide AI to think step by step instead of giving direct conclusions"
+            },
+            {
+              "title": "Role Playing",
+              "content": "Let AI respond as a specific expert to get more professional advice"
+            },
+            {
+              "title": "Reverse Questioning",
+              "content": "Ask AI what not to do to help clarify boundaries"
+            },
+            {
+              "title": "Multi-turn Dialogue",
+              "content": "Continuously refine answers through ongoing conversation"
+            }
+          ]
+        }
+      },
+      "platforms": {
+        "title": "Supported Platforms",
+        "intro": "Different platforms have their characteristics, choosing the right one is important:",
+        "list": [
+          {
+            "name": "ChatGPT",
+            "features": "General-purpose AI, suitable for most scenarios",
+            "tips": "Supports code, articles, analysis, and more"
+          },
+          {
+            "name": "Claude",
+            "features": "Excels at academic and professional content",
+            "tips": "Better for tasks requiring deep thinking"
+          },
+          {
+            "name": "Midjourney",
+            "features": "Focused on image generation",
+            "tips": "Pay special attention to prompt format"
+          }
+        ]
+      }
+    }
+  },
+  "cursor": {
+    "results": "Found {{count}} prompts",
+    "noResults": "No matching prompts found",
+    "loading": "Loading...",
+    "sortByDate": "Sort by date",
+    "sortByTitle": "Sort by title",
+    "categories": {
+      "all": "All Categories",
+      "javascript": "JS Frontend",
+      "typescript": "TS TypeDev",
+      "python": "Python Dev",
+      "java": "Java Backend",
+      "go": "Go Backend",
+      "rust": "Rust System",
+      "php": "PHP Web",
+      "swift": "Swift Mobile",
+      "c": "C Lang",
+      "cpp": "C++ Dev",
+      "ruby": "Ruby Script",
+      "dotnet": ".NET Dev",
+      "react": "React Comp",
+      "nextjs": "Next Stack",
+      "vue": "Vue Frontend",
+      "angular": "NG Framework",
+      "svelte": "Svelte Dev",
+      "ai": "AI Dev",
+      "blockchain": "Blockchain",
+      "cloud": "Cloud Service",
+      "design": "UI Design",
+      "devops": "DevOps",
+      "flutter": "Flutter App",
+      "tools": "Tools Dev",
+      "meta": "Prompt Eng",
+      "other": "Other Dev"
+    }
+  },
+  "ai-drawing": {
+    "results": "Found {{count}} drawings",
+    "noResults": "No drawings found",
+    "loading": "Loading...",
+    "sortByDate": "Sort by date",
+    "sortByTitle": "Sort by title",
+    "categories": {
+      "all": "All Categories",
+      "character": "Character Design",
+      "portrait": "Portrait Photo",
+      "landscape": "Natural Scenery",
+      "architecture": "Architecture Design",
+      "concept-art": "Concept Creation",
+      "anime": "Anime Illustration",
+      "realistic": "Realistic Style",
+      "abstract": "Abstract Art",
+      "sci-fi": "Sci-Fi Scene",
+      "fantasy": "Fantasy World",
+      "nature": "Natural Ecology",
+      "interior": "Interior Space",
+      "vehicle": "Vehicle Design",
+      "product": "Product Display",
+      "fashion": "Fashion Design",
+      "food": "Food & Cuisine",
+      "pet": "Pet & Animal",
+      "illustration": "Commercial Art",
+      "style": "Art Style",
+      "other": "Other Creation"
+    },
+    "positive": "Positive Prompt",
+    "negative": "Negative Prompt",
+    "settings": "Settings",
+    "copyPositive": "Copy positive prompt",
+    "copyNegative": "Copy negative prompt",
+    "steps": "Steps",
+    "cfg": "CFG Scale",
+    "sampler": "Sampler",
+    "preview": "Preview",
+    "style": "Style",
+    "scene": "Scene"
+  },
+  "promptCard": {
+    "copy": "Copy",
+    "copied": "Copied",
+    "share": "Share",
+    "edit": "Edit"
+  },
+  "submit": {
+    "title": "Submit Prompt",
+    "basicRequirements": "Basic Requirements",
+    "requirements": {
+      "format": "Submit files in the specified format",
+      "quality": "Prompts must be tested and produce good results",
+      "original": "Content must be original or authorized by the original author",
+      "complete": "Provide complete instructions and examples"
+    },
+    "fileStructure": "File Structure",
+    "metadataFormat": "Metadata Format",
+    "markdownFormat": "Markdown Format",
+    "howToSubmit": "How to Submit",
+    "submitSteps": {
+      "fork": "Fork the project to your GitHub account",
+      "create": "Create a new branch and add your prompt",
+      "test": "Test locally to ensure correct format",
+      "pr": "Submit a Pull Request for review"
+    },
+    "submitButton": "Submit on GitHub"
+  },
+  "author": "Author",
+  "category": "Category",
+  "platforms": "Platforms",
+  "updated": "Updated",
+  "promptContent": "Prompt Content",
+  "instructions": "Instructions",
+  "examples": "Examples",
+  "copySuccess": "Copied to clipboard",
+  "loading": "Loading...",
+  "copyLink": "Copy Link"
+} 

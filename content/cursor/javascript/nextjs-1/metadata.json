@@ -1,0 +1,21 @@
+{
+  "id": "nextjs-1",
+  "category": "programming",
+  "platforms": [
+    "Next.js",
+    "React",
+    "Redux",
+    "TypeScript"
+  ],
+  "tags": [
+    "Next.js",
+    "React",
+    "Redux",
+    "TypeScript"
+  ],
+  "author": "palaklive",
+  "authorUrl": "https://github.com/palaklive",
+  "authorAvatar": "https://avatars.githubusercontent.com/u/42599914?v=4",
+  "created": "2025-01-11",
+  "updated": "2025-01-11"
+}

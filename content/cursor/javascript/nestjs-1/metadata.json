@@ -1,0 +1,21 @@
+{
+  "id": "nestjs-1",
+  "category": "programming",
+  "platforms": [
+    "NestJs",
+    "Node",
+    "API",
+    "TypeScript"
+  ],
+  "tags": [
+    "NestJs",
+    "Node",
+    "API",
+    "TypeScript"
+  ],
+  "author": "Alberto Basalo",
+  "authorUrl": "https://x.com/AlbertoBasalo",
+  "authorAvatar": "https://avatars.githubusercontent.com/u/756929?v=4",
+  "created": "2025-01-11",
+  "updated": "2025-01-11"
+}

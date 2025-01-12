@@ -1,0 +1,17 @@
+{
+  "id": "wordpress-2",
+  "category": "programming",
+  "platforms": [
+    "WordPress",
+    "PHP"
+  ],
+  "tags": [
+    "WordPress",
+    "PHP"
+  ],
+  "author": "Ruchit Patel",
+  "authorUrl": "https://twitter.com/ruchit288",
+  "authorAvatar": "https://avatars.githubusercontent.com/u/28095255?v=4",
+  "created": "2025-01-11",
+  "updated": "2025-01-11"
+}

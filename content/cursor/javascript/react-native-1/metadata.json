@@ -1,0 +1,19 @@
+{
+  "id": "react-native-1",
+  "category": "programming",
+  "platforms": [
+    "React Native",
+    "TypeScript",
+    "Expo"
+  ],
+  "tags": [
+    "React Native",
+    "TypeScript",
+    "Expo"
+  ],
+  "author": "Will Sims",
+  "authorUrl": "x.com/willsims",
+  "authorAvatar": "https://pbs.twimg.com/profile_images/1693182564658237440/CYiqYn8s_400x400.jpg",
+  "created": "2025-01-11",
+  "updated": "2025-01-11"
+}

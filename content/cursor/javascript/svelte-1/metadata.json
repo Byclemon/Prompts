@@ -1,0 +1,19 @@
+{
+  "id": "svelte-1",
+  "category": "programming",
+  "platforms": [
+    "Svelte",
+    "SvelteKit",
+    "Tailwind"
+  ],
+  "tags": [
+    "Svelte",
+    "SvelteKit",
+    "Tailwind"
+  ],
+  "author": "Ethan Fox",
+  "authorUrl": "https://ethanjamesfox.com",
+  "authorAvatar": "https://pbs.twimg.com/profile_images/1812246318946922496/EJYtXehK_400x400.jpg",
+  "created": "2025-01-11",
+  "updated": "2025-01-11"
+}

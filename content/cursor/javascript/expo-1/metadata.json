@@ -1,0 +1,19 @@
+{
+  "id": "expo-1",
+  "category": "programming",
+  "platforms": [
+    "Expo",
+    "React Native",
+    "TypeScript"
+  ],
+  "tags": [
+    "Expo",
+    "React Native",
+    "TypeScript"
+  ],
+  "author": "Krish Kalaria 👨🏻‍💻",
+  "authorUrl": "https://x.com/KrishKalaria",
+  "authorAvatar": "https://utfs.io/f/5e1c9c74-da28-41ae-9dc3-21ee04299810-5482fr.jpeg",
+  "created": "2025-01-11",
+  "updated": "2025-01-11"
+}

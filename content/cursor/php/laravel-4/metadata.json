@@ -1,0 +1,17 @@
+{
+  "id": "laravel-4",
+  "category": "programming",
+  "platforms": [
+    "Laravel",
+    "PHP"
+  ],
+  "tags": [
+    "Laravel",
+    "PHP"
+  ],
+  "author": "Marcial Paul Gargoles",
+  "authorUrl": "https://github.com/marcialpaulg",
+  "authorAvatar": "https://avatars.githubusercontent.com/u/6005221?v=4",
+  "created": "2025-01-11",
+  "updated": "2025-01-11"
+}

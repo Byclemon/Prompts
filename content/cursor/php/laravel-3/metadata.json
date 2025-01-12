@@ -1,0 +1,25 @@
+{
+  "id": "laravel-3",
+  "category": "programming",
+  "platforms": [
+    "Laravel",
+    "PHP",
+    "Livewire",
+    "Alpine.js",
+    "TailwindCSS",
+    "DaisyUI"
+  ],
+  "tags": [
+    "Laravel",
+    "PHP",
+    "Livewire",
+    "Alpine.js",
+    "TailwindCSS",
+    "DaisyUI"
+  ],
+  "author": "Ismael Fi",
+  "authorUrl": "https://x.com/ismael_fi",
+  "authorAvatar": "https://avatars.githubusercontent.com/u/18596312?v=4",
+  "created": "2025-01-11",
+  "updated": "2025-01-11"
+}

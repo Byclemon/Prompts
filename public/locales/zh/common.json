@@ -1,0 +1,270 @@
+{
+  "locale": "zh",
+  "home": {
+    "title": "提示词库",
+    "description": "收集和分享各种场景下的提示词",
+    "searchPlaceholder": "搜索提示词...",
+    "loading": "加载中...",
+    "noResults": "没有找到相关提示词",
+    "shareButton": "分享提示词",
+    "sortByDate": "按日期排序",
+    "sortByTitle": "按标题排序"
+  },
+  "categories": {
+    "all": "全部",
+    "writing": "写作",
+    "programming": "编程",
+    "ai": "人工智能",
+    "life": "生活",
+    "knowledge": "知识",
+    "psychology": "心理学",
+    "business": "商业",
+    "education": "教育",
+    "design": "设计",
+    "marketing": "营销",
+    "productivity": "生产力",
+    "health": "健康",
+    "finance": "财务",
+    "career": "职业发展",
+    "creativity": "创意",
+    "language": "语言",
+    "research": "研究",
+    "entertainment": "娱乐",
+    "other": "其他"
+  },
+  "prompt": {
+    "platforms": "支持 {{platforms}}",
+    "openInNew": "在新窗口打开",
+    "copy": "复制到剪贴板",
+    "copied": "已复制!",
+    "author": "作者: {{name}}"
+  },
+  "nav": {
+    "aiDrawing": "AI 绘画",
+    "cursor": "Cursor",
+    "guide": "使用指南",
+    "theme": {
+      "light": "切换到亮色模式",
+      "dark": "切换到暗色模式"
+    },
+    "submit": "提交提示词"
+  },
+  "guide": {
+    "title": "使用指南",
+    "description": "学习如何更好地使用 AI 提示词,让 AI 成为你的得力助手",
+    "sections": {
+      "what": {
+        "title": "什么是提示词?",
+        "content": "提示词是与 AI 对话的指令。一个好的提示词能帮助 AI 更好地理解你的需求,提供更准确的回应。提示词就像是与 AI 沟通的桥梁,通过精心设计的提示词,我们可以引导 AI 按照我们期望的方式思考和回答。",
+        "examples": [
+          {
+            "title": "基础提示词",
+            "content": "直接描述需求,如'写一篇关于环保的文章'",
+            "note": "简单但效果可能一般"
+          },
+          {
+            "title": "结构化提示词",
+            "content": "指定详细要求,如'写一篇800字的环保文章,包含:1.当前环境问题 2.个人行动 3.未来展望'",
+            "note": "更容易得到期望的结果"
+          }
+        ]
+      },
+      "how": {
+        "title": "如何使用?",
+        "intro": "使用 AI 提示词是一个循序渐进的过程。让我们来学习如何有效使用:",
+        "steps": [
+          {
+            "title": "选择提示词",
+            "content": "根据需求选择合适的提示词模板",
+            "detail": "浏览分类找到符合你要求的提示词。每个提示词都经过精心设计和测试,可以帮助你完成特定任务。"
+          },
+          {
+            "title": "复制内容",
+            "content": "点击复制按钮将提示词复制到剪贴板",
+            "detail": "提示词通常包含最佳实践和特定格式,可以节省你反复尝试的时间。"
+          },
+          {
+            "title": "粘贴使用",
+            "content": "将提示词粘贴到你选择的 AI 平台",
+            "detail": "我们支持多个主流 AI 平台包括 ChatGPT 和 Claude。每个平台可能有细微差异,请查看平台特定说明。"
+          },
+          {
+            "title": "按需调整",
+            "content": "根据具体场景修改提示词内容",
+            "detail": "提示词模板是起点。你可以根据需要调整,比如修改关键词、调整语气或添加具体要求。"
+          }
+        ]
+      },
+      "tips": {
+        "title": "使用技巧",
+        "intro": "掌握这些技巧让你的 AI 对话更高效:",
+        "list": [
+          "使用清晰具体的描述,避免模糊表达",
+          "提供必要的上下文帮助 AI 更好理解场景",
+          "指定期望的输出格式,包括长度、结构和风格",
+          "如果回答不理想,尝试追问或修改提示词",
+          "善用角色设定,让 AI 以特定身份回答",
+          "将复杂问题拆分成小问题",
+          "添加适当约束避免答案过于发散",
+          "保持耐心,好的对话可能需要多次调整"
+        ],
+        "advanced": {
+          "title": "进阶技巧",
+          "list": [
+            {
+              "title": "思维链",
+              "content": "引导 AI 一步步思考而不是直接给出结论"
+            },
+            {
+              "title": "角色扮演",
+              "content": "让 AI 以特定专家身份回答获得更专业的建议"
+            },
+            {
+              "title": "反向提问",
+              "content": "询问 AI 不该做什么来帮助明确边界"
+            },
+            {
+              "title": "多轮对话",
+              "content": "通过持续对话不断完善答案"
+            }
+          ]
+        }
+      },
+      "platforms": {
+        "title": "支持的平台",
+        "intro": "不同平台有其特点,选择合适的平台很重要:",
+        "list": [
+          {
+            "name": "ChatGPT",
+            "features": "通用型 AI,适合大多数场景",
+            "tips": "支持代码、文章、分析等"
+          },
+          {
+            "name": "Claude",
+            "features": "擅长学术和专业内容",
+            "tips": "更适合需要深度思考的任务"
+          },
+          {
+            "name": "Midjourney",
+            "features": "专注于图像生成",
+            "tips": "特别注意提示词格式"
+          }
+        ]
+      }
+    }
+  },
+  "cursor": {
+    "results": "找到 {{count}} 个提示词",
+    "noResults": "没有找到匹配的提示词",
+    "loading": "加载中...",
+    "sortByDate": "按更新时间",
+    "sortByTitle": "按标题",
+    "categories": {
+      "all": "全部分类",
+      "javascript": "JS前端开发",
+      "typescript": "TS类型开发",
+      "python": "Python开发",
+      "java": "Java后端",
+      "go": "Go后端开发",
+      "rust": "Rust系统",
+      "php": "PHP网站",
+      "swift": "Swift移动",
+      "c": "C语言开发",
+      "cpp": "C++开发",
+      "ruby": "Ruby脚本",
+      "dotnet": ".NET开发",
+      "react": "React组件",
+      "nextjs": "Next全栈",
+      "vue": "Vue前端",
+      "angular": "NG框架",
+      "svelte": "Svelte轻量",
+      "ai": "AI开发",
+      "blockchain": "区块链开发",
+      "cloud": "云服务开发",
+      "design": "UI设计",
+      "devops": "DevOps",
+      "flutter": "Flutter跨端",
+      "tools": "工具开发",
+      "meta": "提示工程",
+      "other": "其他开发"
+    }
+  },
+  "ai-drawing": {
+    "results": "找到 {{count}} 个提示词",
+    "noResults": "没有找到匹配的提示词",
+    "loading": "加载中...",
+    "sortByDate": "按更新时间",
+    "sortByTitle": "按标题",
+    "categories": {
+      "all": "全部分类",
+      "character": "人物设计",
+      "portrait": "人像摄影",
+      "landscape": "自然风光",
+      "architecture": "建筑设计",
+      "concept-art": "概念创作",
+      "anime": "动漫插画",
+      "realistic": "写实风格",
+      "abstract": "抽象艺术",
+      "sci-fi": "科幻场景",
+      "fantasy": "奇幻世界",
+      "nature": "自然生态",
+      "interior": "室内空间",
+      "vehicle": "交通工具",
+      "product": "产品展示",
+      "fashion": "时尚造型",
+      "food": "美食佳肴",
+      "pet": "萌宠世界",
+      "illustration": "商业插画",
+      "style": "艺术风格",
+      "other": "其他创作"
+    },
+    "positive": "正面提示词",
+    "negative": "负面提示词",
+    "settings": "参数设置",
+    "copyPositive": "复制正面提示词",
+    "copyNegative": "复制负面提示词",
+    "steps": "步数",
+    "cfg": "CFG 比例",
+    "sampler": "采样器",
+    "preview": "预览",
+    "style": "风格",
+    "scene": "场景"
+  },
+  "promptCard": {
+    "copy": "复制",
+    "copied": "已复制",
+    "share": "分享",
+    "edit": "编辑"
+  },
+  "submit": {
+    "title": "提交提示词",
+    "basicRequirements": "基本要求",
+    "requirements": {
+      "format": "按照规定的格式提交文件",
+      "quality": "提示词必须经过测试,能产生良好的效果",
+      "original": "内容必须是原创,或者经过原作者授权",
+      "complete": "提供完整的使用说明和示例"
+    },
+    "fileStructure": "文件结构",
+    "metadataFormat": "元数据格式",
+    "markdownFormat": "Markdown 格式",
+    "howToSubmit": "如何提交",
+    "submitSteps": {
+      "fork": "Fork 项目到你的 GitHub 账号",
+      "create": "创建新的分支,添加你的提示词",
+      "test": "本地测试确保格式正确",
+      "pr": "提交 Pull Request 等待审核"
+    },
+    "submitButton": "前往 GitHub 提交"
+  },
+  "author": "作者",
+  "category": "分类",
+  "platforms": "支持平台",
+  "updated": "更新时间",
+  "promptContent": "提示词内容",
+  "instructions": "使用说明",
+  "examples": "使用示例",
+  "copySuccess": "复制成功",
+  "loading": "加载中...",
+  "copyLink": "复制链接"
+} 
