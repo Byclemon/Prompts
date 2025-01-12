@@ -11,6 +11,9 @@ const nextConfig = {
         hostname: '**',
       },
     ],
+  },
+  experimental: {
+    runtime: 'edge',
   }
 }
 
