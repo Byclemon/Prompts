@@ -1,8 +1,6 @@
 import { NextApiRequest, NextApiResponse } from 'next'
 import { getPromptList } from '@/utils/prompts'
 
-export const runtime = 'edge';
-
 export default async function handler(req: NextApiRequest, res: NextApiResponse) {
   const { type = 'prompts', page = '1', category = 'all', search = '', sortBy = 'date', locale = 'zh' } = req.query
 
