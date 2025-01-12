@@ -2,6 +2,8 @@ import { GetStaticPaths, GetStaticProps } from 'next'
 import { serverSideTranslations } from 'next-i18next/serverSideTranslations'
 import { useTranslation } from 'next-i18next'
 
+export const runtime = 'edge'
+
 interface Props {
   category: string
   id: string
