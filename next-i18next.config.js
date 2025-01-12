@@ -10,5 +10,8 @@ module.exports = {
   reloadOnPrerender: process.env.NODE_ENV === 'development',
   react: {
     useSuspense: false
-  }
+  },
+  debug: process.env.NODE_ENV === 'development',
+  serializeConfig: false,
+  use: []
 }; 
